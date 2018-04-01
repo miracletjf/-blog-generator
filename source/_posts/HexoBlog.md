@@ -42,6 +42,7 @@ miracletjf是我的github上的用户名，如果你想部署到github上，最�
 ## 发布文章
 	$ hexo new helloHexo
 然后在source/_posts目录下生成helloHexo.md文件，打开，输入`# hello World`,保存。
+
 	$ hexo clean
 	$ hexo generate
 	$ hexo sever
