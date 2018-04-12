@@ -49,4 +49,4 @@ form标签其实也是在跳转链接，只不过form跳转链接是发起的是
 - `<th>` table header 表头
 - `<td>` table data 表格数据
 - `<colgroup>` 表格列组，用来定义列表中的一组列表。
-- `<col>` 表示表格中的列，属性`bgcolor`
+- `<col>` 表示表格中的列，属性`bgcolor`可以订阅某列的背景色。
