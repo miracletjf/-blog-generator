@@ -1,7 +1,7 @@
 ---
 title: css入门
 date: 2018-04-12 20:00:24
-tags:
+tags: ['css']
 ---
 # css入门---使用细节
 

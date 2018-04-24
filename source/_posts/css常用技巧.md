@@ -1,7 +1,7 @@
 ---
 title: css常用技巧
 date: 2018-04-13 20:11:30
-tags:
+tags: ['css']
 ---
 
 # css常用布局和居中
